@@ -6,6 +6,6 @@ class Magecert_First_Block_Data extends Mage_Core_Block_Template {
     }
 
     function secondBlock(){
-        return 'My first block';
+        return 'My new block';
     }
 }
