@@ -1,0 +1,465 @@
+2013-04-27T13:38:46+00:00 DEBUG (7): process index
+2013-04-27T13:43:10+00:00 DEBUG (7): process index
+2013-04-27T13:43:45+00:00 DEBUG (7): process index
+2013-04-27T13:43:55+00:00 DEBUG (7): process index
+2013-04-27T13:44:23+00:00 DEBUG (7): process index
+2013-04-27T13:47:06+00:00 DEBUG (7): process index
+2013-04-27T13:48:36+00:00 DEBUG (7): process index
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Url::clearStoreInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Url::clearStoreInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Resource_Url::clearStoreInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Resource_Url::clearStoreCategoriesInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Resource_Url::clearStoreProductsInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Url::clearStoreInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Resource_Url::clearStoreInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Resource_Url::clearStoreCategoriesInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Resource_Url::clearStoreProductsInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Url::clearStoreInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Resource_Url::clearStoreInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Resource_Url::clearStoreCategoriesInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): Mage_Catalog_Model_Resource_Url::clearStoreProductsInvalidRewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:50+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:50+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:50+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:51+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites
+2013-04-27T13:48:52+00:00 DEBUG (7): refresh rewrites cat p
+2013-04-27T13:48:53+00:00 DEBUG (7): process index
+2013-04-28T07:15:38+00:00 DEBUG (7): a:39:{s:8:"store_id";i:0;s:9:"entity_id";s:2:"15";s:14:"entity_type_id";s:1:"9";s:16:"attribute_set_id";s:2:"12";s:9:"parent_id";i:13;s:10:"created_at";s:19:"2007-08-24 13:33:17";s:10:"updated_at";s:19:"2013-04-28 07:15:38";s:4:"path";s:9:"1/3/13/15";s:8:"position";s:2:"15";s:5:"level";s:1:"3";s:14:"children_count";s:1:"8";s:4:"name";s:14:"Computers12233";s:12:"display_mode";s:8:"PRODUCTS";s:7:"url_key";s:10:"computers2";s:8:"url_path";s:27:"electronics/computers2.html";s:10:"meta_title";s:0:"";s:13:"custom_design";s:0:"";s:11:"page_layout";s:0:"";s:12:"all_children";s:2:"15";s:13:"path_in_store";s:5:"15,13";s:8:"children";s:0:"";s:11:"description";s:0:"";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:20:"custom_layout_update";s:0:"";s:17:"available_sort_by";s:0:"";s:9:"is_anchor";s:1:"1";s:9:"is_active";s:1:"1";s:15:"include_in_menu";s:1:"1";s:26:"custom_use_parent_settings";s:1:"1";s:24:"custom_apply_to_products";s:1:"1";s:12:"landing_page";s:0:"";s:18:"filter_price_range";N;s:2:"id";s:2:"15";s:15:"default_sort_by";b:0;s:15:"posted_products";a:7:{i:25;s:1:"0";i:26;s:1:"0";i:28;s:1:"3";i:140;s:1:"0";i:141;s:1:"0";i:143;s:1:"0";i:163;s:1:"0";}s:8:"path_ids";a:4:{i:0;s:1:"1";i:1;s:1:"3";i:2;s:2:"13";i:3;s:2:"15";}s:23:"is_changed_product_list";b:0;s:17:"products_position";a:7:{i:25;s:1:"0";i:26;s:1:"0";i:28;s:1:"3";i:140;s:1:"0";i:141;s:1:"0";i:143;s:1:"0";i:163;s:1:"0";}}
+2013-04-28T07:15:38+00:00 DEBUG (7): a:33:{s:8:"store_id";i:0;s:9:"entity_id";s:2:"15";s:14:"entity_type_id";s:1:"9";s:16:"attribute_set_id";s:2:"12";s:9:"parent_id";s:2:"13";s:10:"created_at";s:19:"2007-08-24 13:33:17";s:10:"updated_at";s:19:"2013-04-27 13:48:50";s:4:"path";s:9:"1/3/13/15";s:8:"position";s:2:"15";s:5:"level";s:1:"3";s:14:"children_count";s:1:"8";s:4:"name";s:14:"Computers12233";s:12:"display_mode";s:8:"PRODUCTS";s:7:"url_key";s:10:"computers2";s:8:"url_path";s:27:"electronics/computers2.html";s:10:"meta_title";s:0:"";s:13:"custom_design";s:0:"";s:11:"page_layout";s:0:"";s:12:"all_children";s:2:"15";s:13:"path_in_store";s:5:"15,13";s:8:"children";s:0:"";s:11:"description";s:0:"";s:13:"meta_keywords";s:0:"";s:16:"meta_description";s:0:"";s:20:"custom_layout_update";s:0:"";s:17:"available_sort_by";N;s:9:"is_anchor";s:1:"1";s:9:"is_active";s:1:"1";s:15:"include_in_menu";s:1:"1";s:26:"custom_use_parent_settings";s:1:"1";s:24:"custom_apply_to_products";s:1:"1";s:12:"landing_page";N;s:18:"filter_price_range";N;}
+2013-04-28T07:46:30+00:00 DEBUG (7): YTozOTp7czo4OiJzdG9yZV9pZCI7aTowO3M6OToiZW50aXR5X2lkIjtzOjI6IjE1IjtzOjE0OiJlbnRpdHlfdHlwZV9pZCI7czoxOiI5IjtzOjE2OiJhdHRyaWJ1dGVfc2V0X2lkIjtzOjI6IjEyIjtzOjk6InBhcmVudF9pZCI7aToxMztzOjEwOiJjcmVhdGVkX2F0IjtzOjE5OiIyMDA3LTA4LTI0IDEzOjMzOjE3IjtzOjEwOiJ1cGRhdGVkX2F0IjtzOjE5OiIyMDEzLTA0LTI4IDA3OjQ2OjMwIjtzOjQ6InBhdGgiO3M6OToiMS8zLzEzLzE1IjtzOjg6InBvc2l0aW9uIjtzOjI6IjE1IjtzOjU6ImxldmVsIjtzOjE6IjMiO3M6MTQ6ImNoaWxkcmVuX2NvdW50IjtzOjE6IjgiO3M6NDoibmFtZSI7czo5OiJDb21wdXRlcnMiO3M6MTI6ImRpc3BsYXlfbW9kZSI7czo4OiJQUk9EVUNUUyI7czo3OiJ1cmxfa2V5IjtzOjEwOiJjb21wdXRlcnMyIjtzOjg6InVybF9wYXRoIjtzOjI3OiJlbGVjdHJvbmljcy9jb21wdXRlcnMyLmh0bWwiO3M6MTA6Im1ldGFfdGl0bGUiO3M6MDoiIjtzOjEzOiJjdXN0b21fZGVzaWduIjtzOjA6IiI7czoxMToicGFnZV9sYXlvdXQiO3M6MDoiIjtzOjEyOiJhbGxfY2hpbGRyZW4iO3M6MjoiMTUiO3M6MTM6InBhdGhfaW5fc3RvcmUiO3M6NToiMTUsMTMiO3M6ODoiY2hpbGRyZW4iO3M6MDoiIjtzOjExOiJkZXNjcmlwdGlvbiI7czowOiIiO3M6MTM6Im1ldGFfa2V5d29yZHMiO3M6MDoiIjtzOjE2OiJtZXRhX2Rlc2NyaXB0aW9uIjtzOjA6IiI7czoyMDoiY3VzdG9tX2xheW91dF91cGRhdGUiO3M6MDoiIjtzOjE3OiJhdmFpbGFibGVfc29ydF9ieSI7czowOiIiO3M6OToiaXNfYW5jaG9yIjtzOjE6IjEiO3M6OToiaXNfYWN0aXZlIjtzOjE6IjEiO3M6MTU6ImluY2x1ZGVfaW5fbWVudSI7czoxOiIxIjtzOjI2OiJjdXN0b21fdXNlX3BhcmVudF9zZXR0aW5ncyI7czoxOiIxIjtzOjI0OiJjdXN0b21fYXBwbHlfdG9fcHJvZHVjdHMiO3M6MToiMSI7czoxMjoibGFuZGluZ19wYWdlIjtzOjA6IiI7czoxODoiZmlsdGVyX3ByaWNlX3JhbmdlIjtOO3M6MjoiaWQiO3M6MjoiMTUiO3M6MTU6ImRlZmF1bHRfc29ydF9ieSI7YjowO3M6MTU6InBvc3RlZF9wcm9kdWN0cyI7YTo3OntpOjI1O3M6MToiMCI7aToyNjtzOjE6IjAiO2k6Mjg7czoxOiIzIjtpOjE0MDtzOjE6IjAiO2k6MTQxO3M6MToiMCI7aToxNDM7czoxOiIwIjtpOjE2MztzOjE6IjAiO31zOjg6InBhdGhfaWRzIjthOjQ6e2k6MDtzOjE6IjEiO2k6MTtzOjE6IjMiO2k6MjtzOjI6IjEzIjtpOjM7czoyOiIxNSI7fXM6MjM6ImlzX2NoYW5nZWRfcHJvZHVjdF9saXN0IjtiOjA7czoxNzoicHJvZHVjdHNfcG9zaXRpb24iO2E6Nzp7aToyNTtzOjE6IjAiO2k6MjY7czoxOiIwIjtpOjI4O3M6MToiMyI7aToxNDA7czoxOiIwIjtpOjE0MTtzOjE6IjAiO2k6MTQzO3M6MToiMCI7aToxNjM7czoxOiIwIjt9fQ==
+2013-04-28T07:46:30+00:00 DEBUG (7): YTozMzp7czo4OiJzdG9yZV9pZCI7aTowO3M6OToiZW50aXR5X2lkIjtzOjI6IjE1IjtzOjE0OiJlbnRpdHlfdHlwZV9pZCI7czoxOiI5IjtzOjE2OiJhdHRyaWJ1dGVfc2V0X2lkIjtzOjI6IjEyIjtzOjk6InBhcmVudF9pZCI7czoyOiIxMyI7czoxMDoiY3JlYXRlZF9hdCI7czoxOToiMjAwNy0wOC0yNCAxMzozMzoxNyI7czoxMDoidXBkYXRlZF9hdCI7czoxOToiMjAxMy0wNC0yOCAwNzoxNTozOCI7czo0OiJwYXRoIjtzOjk6IjEvMy8xMy8xNSI7czo4OiJwb3NpdGlvbiI7czoyOiIxNSI7czo1OiJsZXZlbCI7czoxOiIzIjtzOjE0OiJjaGlsZHJlbl9jb3VudCI7czoxOiI4IjtzOjQ6Im5hbWUiO3M6MTQ6IkNvbXB1dGVyczEyMjMzIjtzOjEyOiJkaXNwbGF5X21vZGUiO3M6ODoiUFJPRFVDVFMiO3M6NzoidXJsX2tleSI7czoxMDoiY29tcHV0ZXJzMiI7czo4OiJ1cmxfcGF0aCI7czoyNzoiZWxlY3Ryb25pY3MvY29tcHV0ZXJzMi5odG1sIjtzOjEwOiJtZXRhX3RpdGxlIjtzOjA6IiI7czoxMzoiY3VzdG9tX2Rlc2lnbiI7czowOiIiO3M6MTE6InBhZ2VfbGF5b3V0IjtzOjA6IiI7czoxMjoiYWxsX2NoaWxkcmVuIjtzOjI6IjE1IjtzOjEzOiJwYXRoX2luX3N0b3JlIjtzOjU6IjE1LDEzIjtzOjg6ImNoaWxkcmVuIjtzOjA6IiI7czoxMToiZGVzY3JpcHRpb24iO3M6MDoiIjtzOjEzOiJtZXRhX2tleXdvcmRzIjtzOjA6IiI7czoxNjoibWV0YV9kZXNjcmlwdGlvbiI7czowOiIiO3M6MjA6ImN1c3RvbV9sYXlvdXRfdXBkYXRlIjtzOjA6IiI7czoxNzoiYXZhaWxhYmxlX3NvcnRfYnkiO047czo5OiJpc19hbmNob3IiO3M6MToiMSI7czo5OiJpc19hY3RpdmUiO3M6MToiMSI7czoxNToiaW5jbHVkZV9pbl9tZW51IjtzOjE6IjEiO3M6MjY6ImN1c3RvbV91c2VfcGFyZW50X3NldHRpbmdzIjtzOjE6IjEiO3M6MjQ6ImN1c3RvbV9hcHBseV90b19wcm9kdWN0cyI7czoxOiIxIjtzOjEyOiJsYW5kaW5nX3BhZ2UiO047czoxODoiZmlsdGVyX3ByaWNlX3JhbmdlIjtOO30=
+2013-04-28T07:46:30+00:00 DEBUG (7): Mage_Catalog_Model_Category_Indexer_Product::_processEvent
+2013-04-28T07:46:55+00:00 DEBUG (7): YTozOTp7czo4OiJzdG9yZV9pZCI7aTowO3M6OToiZW50aXR5X2lkIjtzOjI6IjE1IjtzOjE0OiJlbnRpdHlfdHlwZV9pZCI7czoxOiI5IjtzOjE2OiJhdHRyaWJ1dGVfc2V0X2lkIjtzOjI6IjEyIjtzOjk6InBhcmVudF9pZCI7aToxMztzOjEwOiJjcmVhdGVkX2F0IjtzOjE5OiIyMDA3LTA4LTI0IDEzOjMzOjE3IjtzOjEwOiJ1cGRhdGVkX2F0IjtzOjE5OiIyMDEzLTA0LTI4IDA3OjQ2OjU0IjtzOjQ6InBhdGgiO3M6OToiMS8zLzEzLzE1IjtzOjg6InBvc2l0aW9uIjtzOjI6IjE1IjtzOjU6ImxldmVsIjtzOjE6IjMiO3M6MTQ6ImNoaWxkcmVuX2NvdW50IjtzOjE6IjgiO3M6NDoibmFtZSI7czo5OiJDb21wdXRlcnMiO3M6MTI6ImRpc3BsYXlfbW9kZSI7czo4OiJQUk9EVUNUUyI7czo3OiJ1cmxfa2V5IjtzOjEwOiJjb21wdXRlcnMyIjtzOjg6InVybF9wYXRoIjtzOjI3OiJlbGVjdHJvbmljcy9jb21wdXRlcnMyLmh0bWwiO3M6MTA6Im1ldGFfdGl0bGUiO3M6MDoiIjtzOjEzOiJjdXN0b21fZGVzaWduIjtzOjA6IiI7czoxMToicGFnZV9sYXlvdXQiO3M6MDoiIjtzOjEyOiJhbGxfY2hpbGRyZW4iO3M6MjoiMTUiO3M6MTM6InBhdGhfaW5fc3RvcmUiO3M6NToiMTUsMTMiO3M6ODoiY2hpbGRyZW4iO3M6MDoiIjtzOjExOiJkZXNjcmlwdGlvbiI7czowOiIiO3M6MTM6Im1ldGFfa2V5d29yZHMiO3M6MDoiIjtzOjE2OiJtZXRhX2Rlc2NyaXB0aW9uIjtzOjA6IiI7czoyMDoiY3VzdG9tX2xheW91dF91cGRhdGUiO3M6MDoiIjtzOjE3OiJhdmFpbGFibGVfc29ydF9ieSI7czowOiIiO3M6OToiaXNfYW5jaG9yIjtzOjE6IjEiO3M6OToiaXNfYWN0aXZlIjtzOjE6IjEiO3M6MTU6ImluY2x1ZGVfaW5fbWVudSI7czoxOiIxIjtzOjI2OiJjdXN0b21fdXNlX3BhcmVudF9zZXR0aW5ncyI7czoxOiIxIjtzOjI0OiJjdXN0b21fYXBwbHlfdG9fcHJvZHVjdHMiO3M6MToiMSI7czoxMjoibGFuZGluZ19wYWdlIjtzOjA6IiI7czoxODoiZmlsdGVyX3ByaWNlX3JhbmdlIjtOO3M6MjoiaWQiO3M6MjoiMTUiO3M6MTU6ImRlZmF1bHRfc29ydF9ieSI7YjowO3M6MTU6InBvc3RlZF9wcm9kdWN0cyI7YTo3OntpOjI1O3M6MToiMCI7aToyNjtzOjE6IjAiO2k6Mjg7czoxOiIzIjtpOjE0MDtzOjE6IjAiO2k6MTQxO3M6MToiMCI7aToxNDM7czoxOiIwIjtpOjE2MztzOjE6IjAiO31zOjg6InBhdGhfaWRzIjthOjQ6e2k6MDtzOjE6IjEiO2k6MTtzOjE6IjMiO2k6MjtzOjI6IjEzIjtpOjM7czoyOiIxNSI7fXM6MjM6ImlzX2NoYW5nZWRfcHJvZHVjdF9saXN0IjtiOjA7czoxNzoicHJvZHVjdHNfcG9zaXRpb24iO2E6Nzp7aToyNTtzOjE6IjAiO2k6MjY7czoxOiIwIjtpOjI4O3M6MToiMyI7aToxNDA7czoxOiIwIjtpOjE0MTtzOjE6IjAiO2k6MTQzO3M6MToiMCI7aToxNjM7czoxOiIwIjt9fQ==
+2013-04-28T07:46:55+00:00 DEBUG (7): YTozMzp7czo4OiJzdG9yZV9pZCI7aTowO3M6OToiZW50aXR5X2lkIjtzOjI6IjE1IjtzOjE0OiJlbnRpdHlfdHlwZV9pZCI7czoxOiI5IjtzOjE2OiJhdHRyaWJ1dGVfc2V0X2lkIjtzOjI6IjEyIjtzOjk6InBhcmVudF9pZCI7czoyOiIxMyI7czoxMDoiY3JlYXRlZF9hdCI7czoxOToiMjAwNy0wOC0yNCAxMzozMzoxNyI7czoxMDoidXBkYXRlZF9hdCI7czoxOToiMjAxMy0wNC0yOCAwNzo0NjozMCI7czo0OiJwYXRoIjtzOjk6IjEvMy8xMy8xNSI7czo4OiJwb3NpdGlvbiI7czoyOiIxNSI7czo1OiJsZXZlbCI7czoxOiIzIjtzOjE0OiJjaGlsZHJlbl9jb3VudCI7czoxOiI4IjtzOjQ6Im5hbWUiO3M6OToiQ29tcHV0ZXJzIjtzOjEyOiJkaXNwbGF5X21vZGUiO3M6ODoiUFJPRFVDVFMiO3M6NzoidXJsX2tleSI7czoxMDoiY29tcHV0ZXJzMiI7czo4OiJ1cmxfcGF0aCI7czoyNzoiZWxlY3Ryb25pY3MvY29tcHV0ZXJzMi5odG1sIjtzOjEwOiJtZXRhX3RpdGxlIjtzOjA6IiI7czoxMzoiY3VzdG9tX2Rlc2lnbiI7czowOiIiO3M6MTE6InBhZ2VfbGF5b3V0IjtzOjA6IiI7czoxMjoiYWxsX2NoaWxkcmVuIjtzOjI6IjE1IjtzOjEzOiJwYXRoX2luX3N0b3JlIjtzOjU6IjE1LDEzIjtzOjg6ImNoaWxkcmVuIjtzOjA6IiI7czoxMToiZGVzY3JpcHRpb24iO3M6MDoiIjtzOjEzOiJtZXRhX2tleXdvcmRzIjtzOjA6IiI7czoxNjoibWV0YV9kZXNjcmlwdGlvbiI7czowOiIiO3M6MjA6ImN1c3RvbV9sYXlvdXRfdXBkYXRlIjtzOjA6IiI7czoxNzoiYXZhaWxhYmxlX3NvcnRfYnkiO047czo5OiJpc19hbmNob3IiO3M6MToiMSI7czo5OiJpc19hY3RpdmUiO3M6MToiMSI7czoxNToiaW5jbHVkZV9pbl9tZW51IjtzOjE6IjEiO3M6MjY6ImN1c3RvbV91c2VfcGFyZW50X3NldHRpbmdzIjtzOjE6IjEiO3M6MjQ6ImN1c3RvbV9hcHBseV90b19wcm9kdWN0cyI7czoxOiIxIjtzOjEyOiJsYW5kaW5nX3BhZ2UiO047czoxODoiZmlsdGVyX3ByaWNlX3JhbmdlIjtOO30=
+2013-04-28T07:46:55+00:00 DEBUG (7): Mage_Catalog_Model_Category_Indexer_Product::_processEvent
+2013-04-28T07:57:00+00:00 DEBUG (7): YTozOTp7czo4OiJzdG9yZV9pZCI7aTowO3M6OToiZW50aXR5X2lkIjtzOjI6IjE1IjtzOjE0OiJlbnRpdHlfdHlwZV9pZCI7czoxOiI5IjtzOjE2OiJhdHRyaWJ1dGVfc2V0X2lkIjtzOjI6IjEyIjtzOjk6InBhcmVudF9pZCI7aToxMztzOjEwOiJjcmVhdGVkX2F0IjtzOjE5OiIyMDA3LTA4LTI0IDEzOjMzOjE3IjtzOjEwOiJ1cGRhdGVkX2F0IjtzOjE5OiIyMDEzLTA0LTI4IDA3OjU3OjAwIjtzOjQ6InBhdGgiO3M6OToiMS8zLzEzLzE1IjtzOjg6InBvc2l0aW9uIjtzOjI6IjE1IjtzOjU6ImxldmVsIjtzOjE6IjMiO3M6MTQ6ImNoaWxkcmVuX2NvdW50IjtzOjE6IjgiO3M6NDoibmFtZSI7czo5OiJDb21wdXRlcnMiO3M6MTI6ImRpc3BsYXlfbW9kZSI7czo4OiJQUk9EVUNUUyI7czo3OiJ1cmxfa2V5IjtzOjEwOiJjb21wdXRlcnMyIjtzOjg6InVybF9wYXRoIjtzOjI3OiJlbGVjdHJvbmljcy9jb21wdXRlcnMyLmh0bWwiO3M6MTA6Im1ldGFfdGl0bGUiO3M6MDoiIjtzOjEzOiJjdXN0b21fZGVzaWduIjtzOjA6IiI7czoxMToicGFnZV9sYXlvdXQiO3M6MDoiIjtzOjEyOiJhbGxfY2hpbGRyZW4iO3M6MjoiMTUiO3M6MTM6InBhdGhfaW5fc3RvcmUiO3M6NToiMTUsMTMiO3M6ODoiY2hpbGRyZW4iO3M6MDoiIjtzOjExOiJkZXNjcmlwdGlvbiI7czowOiIiO3M6MTM6Im1ldGFfa2V5d29yZHMiO3M6MDoiIjtzOjE2OiJtZXRhX2Rlc2NyaXB0aW9uIjtzOjA6IiI7czoyMDoiY3VzdG9tX2xheW91dF91cGRhdGUiO3M6MDoiIjtzOjE3OiJhdmFpbGFibGVfc29ydF9ieSI7czowOiIiO3M6OToiaXNfYW5jaG9yIjtzOjE6IjEiO3M6OToiaXNfYWN0aXZlIjtzOjE6IjEiO3M6MTU6ImluY2x1ZGVfaW5fbWVudSI7czoxOiIxIjtzOjI2OiJjdXN0b21fdXNlX3BhcmVudF9zZXR0aW5ncyI7czoxOiIxIjtzOjI0OiJjdXN0b21fYXBwbHlfdG9fcHJvZHVjdHMiO3M6MToiMSI7czoxMjoibGFuZGluZ19wYWdlIjtzOjA6IiI7czoxODoiZmlsdGVyX3ByaWNlX3JhbmdlIjtOO3M6MjoiaWQiO3M6MjoiMTUiO3M6MTU6ImRlZmF1bHRfc29ydF9ieSI7YjowO3M6MTU6InBvc3RlZF9wcm9kdWN0cyI7YTo3OntpOjI1O3M6MToiMCI7aToyNjtzOjE6IjAiO2k6Mjg7czoxOiIzIjtpOjE0MDtzOjE6IjAiO2k6MTQxO3M6MToiMCI7aToxNDM7czoxOiIwIjtpOjE2MztzOjE6IjAiO31zOjg6InBhdGhfaWRzIjthOjQ6e2k6MDtzOjE6IjEiO2k6MTtzOjE6IjMiO2k6MjtzOjI6IjEzIjtpOjM7czoyOiIxNSI7fXM6MjM6ImlzX2NoYW5nZWRfcHJvZHVjdF9saXN0IjtiOjA7czoxNzoicHJvZHVjdHNfcG9zaXRpb24iO2E6Nzp7aToyNTtzOjE6IjAiO2k6MjY7czoxOiIwIjtpOjI4O3M6MToiMyI7aToxNDA7czoxOiIwIjtpOjE0MTtzOjE6IjAiO2k6MTQzO3M6MToiMCI7aToxNjM7czoxOiIwIjt9fQ==
+2013-04-28T07:57:00+00:00 DEBUG (7): YTozMzp7czo4OiJzdG9yZV9pZCI7aTowO3M6OToiZW50aXR5X2lkIjtzOjI6IjE1IjtzOjE0OiJlbnRpdHlfdHlwZV9pZCI7czoxOiI5IjtzOjE2OiJhdHRyaWJ1dGVfc2V0X2lkIjtzOjI6IjEyIjtzOjk6InBhcmVudF9pZCI7czoyOiIxMyI7czoxMDoiY3JlYXRlZF9hdCI7czoxOToiMjAwNy0wOC0yNCAxMzozMzoxNyI7czoxMDoidXBkYXRlZF9hdCI7czoxOToiMjAxMy0wNC0yOCAwNzo0Njo1NCI7czo0OiJwYXRoIjtzOjk6IjEvMy8xMy8xNSI7czo4OiJwb3NpdGlvbiI7czoyOiIxNSI7czo1OiJsZXZlbCI7czoxOiIzIjtzOjE0OiJjaGlsZHJlbl9jb3VudCI7czoxOiI4IjtzOjQ6Im5hbWUiO3M6OToiQ29tcHV0ZXJzIjtzOjEyOiJkaXNwbGF5X21vZGUiO3M6ODoiUFJPRFVDVFMiO3M6NzoidXJsX2tleSI7czoxMDoiY29tcHV0ZXJzMiI7czo4OiJ1cmxfcGF0aCI7czoyNzoiZWxlY3Ryb25pY3MvY29tcHV0ZXJzMi5odG1sIjtzOjEwOiJtZXRhX3RpdGxlIjtzOjA6IiI7czoxMzoiY3VzdG9tX2Rlc2lnbiI7czowOiIiO3M6MTE6InBhZ2VfbGF5b3V0IjtzOjA6IiI7czoxMjoiYWxsX2NoaWxkcmVuIjtzOjI6IjE1IjtzOjEzOiJwYXRoX2luX3N0b3JlIjtzOjU6IjE1LDEzIjtzOjg6ImNoaWxkcmVuIjtzOjA6IiI7czoxMToiZGVzY3JpcHRpb24iO3M6MDoiIjtzOjEzOiJtZXRhX2tleXdvcmRzIjtzOjA6IiI7czoxNjoibWV0YV9kZXNjcmlwdGlvbiI7czowOiIiO3M6MjA6ImN1c3RvbV9sYXlvdXRfdXBkYXRlIjtzOjA6IiI7czoxNzoiYXZhaWxhYmxlX3NvcnRfYnkiO047czo5OiJpc19hbmNob3IiO3M6MToiMSI7czo5OiJpc19hY3RpdmUiO3M6MToiMSI7czoxNToiaW5jbHVkZV9pbl9tZW51IjtzOjE6IjEiO3M6MjY6ImN1c3RvbV91c2VfcGFyZW50X3NldHRpbmdzIjtzOjE6IjEiO3M6MjQ6ImN1c3RvbV9hcHBseV90b19wcm9kdWN0cyI7czoxOiIxIjtzOjEyOiJsYW5kaW5nX3BhZ2UiO047czoxODoiZmlsdGVyX3ByaWNlX3JhbmdlIjtOO30=
+2013-04-28T07:57:00+00:00 DEBUG (7): 
+2013-04-28T07:57:00+00:00 DEBUG (7): Mage_Catalog_Model_Category_Indexer_Product::_processEvent
+2013-04-28T07:57:08+00:00 DEBUG (7): YTozOTp7czo4OiJzdG9yZV9pZCI7aTowO3M6OToiZW50aXR5X2lkIjtzOjI6IjE1IjtzOjE0OiJlbnRpdHlfdHlwZV9pZCI7czoxOiI5IjtzOjE2OiJhdHRyaWJ1dGVfc2V0X2lkIjtzOjI6IjEyIjtzOjk6InBhcmVudF9pZCI7aToxMztzOjEwOiJjcmVhdGVkX2F0IjtzOjE5OiIyMDA3LTA4LTI0IDEzOjMzOjE3IjtzOjEwOiJ1cGRhdGVkX2F0IjtzOjE5OiIyMDEzLTA0LTI4IDA3OjU3OjA4IjtzOjQ6InBhdGgiO3M6OToiMS8zLzEzLzE1IjtzOjg6InBvc2l0aW9uIjtzOjI6IjE1IjtzOjU6ImxldmVsIjtzOjE6IjMiO3M6MTQ6ImNoaWxkcmVuX2NvdW50IjtzOjE6IjgiO3M6NDoibmFtZSI7czo5OiJDb21wdXRlcnMiO3M6MTI6ImRpc3BsYXlfbW9kZSI7czo4OiJQUk9EVUNUUyI7czo3OiJ1cmxfa2V5IjtzOjEwOiJjb21wdXRlcnMyIjtzOjg6InVybF9wYXRoIjtzOjI3OiJlbGVjdHJvbmljcy9jb21wdXRlcnMyLmh0bWwiO3M6MTA6Im1ldGFfdGl0bGUiO3M6MDoiIjtzOjEzOiJjdXN0b21fZGVzaWduIjtzOjA6IiI7czoxMToicGFnZV9sYXlvdXQiO3M6MDoiIjtzOjEyOiJhbGxfY2hpbGRyZW4iO3M6MjoiMTUiO3M6MTM6InBhdGhfaW5fc3RvcmUiO3M6NToiMTUsMTMiO3M6ODoiY2hpbGRyZW4iO3M6MDoiIjtzOjExOiJkZXNjcmlwdGlvbiI7czowOiIiO3M6MTM6Im1ldGFfa2V5d29yZHMiO3M6MDoiIjtzOjE2OiJtZXRhX2Rlc2NyaXB0aW9uIjtzOjA6IiI7czoyMDoiY3VzdG9tX2xheW91dF91cGRhdGUiO3M6MDoiIjtzOjE3OiJhdmFpbGFibGVfc29ydF9ieSI7czowOiIiO3M6OToiaXNfYW5jaG9yIjtzOjE6IjEiO3M6OToiaXNfYWN0aXZlIjtzOjE6IjEiO3M6MTU6ImluY2x1ZGVfaW5fbWVudSI7czoxOiIxIjtzOjI2OiJjdXN0b21fdXNlX3BhcmVudF9zZXR0aW5ncyI7czoxOiIxIjtzOjI0OiJjdXN0b21fYXBwbHlfdG9fcHJvZHVjdHMiO3M6MToiMSI7czoxMjoibGFuZGluZ19wYWdlIjtzOjA6IiI7czoxODoiZmlsdGVyX3ByaWNlX3JhbmdlIjtOO3M6MjoiaWQiO3M6MjoiMTUiO3M6MTU6ImRlZmF1bHRfc29ydF9ieSI7YjowO3M6MTU6InBvc3RlZF9wcm9kdWN0cyI7YTo3OntpOjI1O3M6MToiMCI7aToyNjtzOjE6IjAiO2k6Mjg7czoxOiIzIjtpOjE0MDtzOjE6IjAiO2k6MTQxO3M6MToiMCI7aToxNDM7czoxOiIwIjtpOjE2MztzOjE6IjAiO31zOjg6InBhdGhfaWRzIjthOjQ6e2k6MDtzOjE6IjEiO2k6MTtzOjE6IjMiO2k6MjtzOjI6IjEzIjtpOjM7czoyOiIxNSI7fXM6MjM6ImlzX2NoYW5nZWRfcHJvZHVjdF9saXN0IjtiOjA7czoxNzoicHJvZHVjdHNfcG9zaXRpb24iO2E6Nzp7aToyNTtzOjE6IjAiO2k6MjY7czoxOiIwIjtpOjI4O3M6MToiMyI7aToxNDA7czoxOiIwIjtpOjE0MTtzOjE6IjAiO2k6MTQzO3M6MToiMCI7aToxNjM7czoxOiIwIjt9fQ==
+2013-04-28T07:57:08+00:00 DEBUG (7): YTozMzp7czo4OiJzdG9yZV9pZCI7aTowO3M6OToiZW50aXR5X2lkIjtzOjI6IjE1IjtzOjE0OiJlbnRpdHlfdHlwZV9pZCI7czoxOiI5IjtzOjE2OiJhdHRyaWJ1dGVfc2V0X2lkIjtzOjI6IjEyIjtzOjk6InBhcmVudF9pZCI7czoyOiIxMyI7czoxMDoiY3JlYXRlZF9hdCI7czoxOToiMjAwNy0wOC0yNCAxMzozMzoxNyI7czoxMDoidXBkYXRlZF9hdCI7czoxOToiMjAxMy0wNC0yOCAwNzo1NzowMCI7czo0OiJwYXRoIjtzOjk6IjEvMy8xMy8xNSI7czo4OiJwb3NpdGlvbiI7czoyOiIxNSI7czo1OiJsZXZlbCI7czoxOiIzIjtzOjE0OiJjaGlsZHJlbl9jb3VudCI7czoxOiI4IjtzOjQ6Im5hbWUiO3M6OToiQ29tcHV0ZXJzIjtzOjEyOiJkaXNwbGF5X21vZGUiO3M6ODoiUFJPRFVDVFMiO3M6NzoidXJsX2tleSI7czoxMDoiY29tcHV0ZXJzMiI7czo4OiJ1cmxfcGF0aCI7czoyNzoiZWxlY3Ryb25pY3MvY29tcHV0ZXJzMi5odG1sIjtzOjEwOiJtZXRhX3RpdGxlIjtzOjA6IiI7czoxMzoiY3VzdG9tX2Rlc2lnbiI7czowOiIiO3M6MTE6InBhZ2VfbGF5b3V0IjtzOjA6IiI7czoxMjoiYWxsX2NoaWxkcmVuIjtzOjI6IjE1IjtzOjEzOiJwYXRoX2luX3N0b3JlIjtzOjU6IjE1LDEzIjtzOjg6ImNoaWxkcmVuIjtzOjA6IiI7czoxMToiZGVzY3JpcHRpb24iO3M6MDoiIjtzOjEzOiJtZXRhX2tleXdvcmRzIjtzOjA6IiI7czoxNjoibWV0YV9kZXNjcmlwdGlvbiI7czowOiIiO3M6MjA6ImN1c3RvbV9sYXlvdXRfdXBkYXRlIjtzOjA6IiI7czoxNzoiYXZhaWxhYmxlX3NvcnRfYnkiO047czo5OiJpc19hbmNob3IiO3M6MToiMSI7czo5OiJpc19hY3RpdmUiO3M6MToiMSI7czoxNToiaW5jbHVkZV9pbl9tZW51IjtzOjE6IjEiO3M6MjY6ImN1c3RvbV91c2VfcGFyZW50X3NldHRpbmdzIjtzOjE6IjEiO3M6MjQ6ImN1c3RvbV9hcHBseV90b19wcm9kdWN0cyI7czoxOiIxIjtzOjEyOiJsYW5kaW5nX3BhZ2UiO047czoxODoiZmlsdGVyX3ByaWNlX3JhbmdlIjtOO30=
+2013-04-28T07:57:08+00:00 DEBUG (7): 
+2013-04-28T07:57:08+00:00 DEBUG (7): Mage_Catalog_Model_Category_Indexer_Product::_processEvent
+2013-04-28T07:57:42+00:00 DEBUG (7): 
+2013-04-28T07:57:42+00:00 DEBUG (7): 
+2013-04-28T07:57:42+00:00 DEBUG (7): Mage_Catalog_Model_Category_Indexer_Product::_processEvent
+2013-04-28T07:58:33+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => Array
+        (
+            [catalog_url_match_result] => 1
+        )
+
+    [catalog_product_flat_match_result] => 
+)
+
+2013-04-28T07:58:33+00:00 DEBUG (7): Array
+(
+)
+
+2013-04-28T07:58:33+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => 
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => Array
+        (
+            [catalog_category_product_match_result] => 1
+        )
+
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => Array
+        (
+            [catalogsearch_fulltext_match_result] => 1
+        )
+
+)
+
+2013-04-28T07:58:33+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => 
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => Array
+        (
+            [catalog_category_product_match_result] => 1
+        )
+
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => Array
+        (
+            [catalogsearch_fulltext_match_result] => 1
+        )
+
+)
+
+2013-04-28T07:58:33+00:00 DEBUG (7): Array
+(
+    [catalog_category_product_match_result] => 1
+)
+
+2013-04-28T07:58:33+00:00 DEBUG (7): Mage_Catalog_Model_Category_Indexer_Product::_processEvent
+2013-04-28T08:06:45+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => Array
+        (
+            [catalog_url_match_result] => 1
+        )
+
+    [catalog_product_flat_match_result] => 
+)
+
+2013-04-28T08:06:45+00:00 DEBUG (7): Array
+(
+)
+
+2013-04-28T08:06:45+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => Array
+        (
+            [catalog_url_match_result] => 1
+        )
+
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => Array
+        (
+            [catalog_category_product_match_result] => 1
+        )
+
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => Array
+        (
+            [catalogsearch_fulltext_match_result] => 1
+        )
+
+)
+
+2013-04-28T08:06:45+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => 
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => Array
+        (
+            [catalog_category_product_match_result] => 1
+        )
+
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => Array
+        (
+            [catalogsearch_fulltext_match_result] => 1
+        )
+
+)
+
+2013-04-28T08:06:45+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => 
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => Array
+        (
+            [catalog_category_product_match_result] => 1
+        )
+
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => Array
+        (
+            [catalogsearch_fulltext_match_result] => 1
+        )
+
+)
+
+2013-04-28T08:06:45+00:00 DEBUG (7): Array
+(
+    [catalog_category_product_match_result] => 1
+)
+
+2013-04-28T08:06:45+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => 
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => 
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => 
+)
+
+2013-04-28T08:07:16+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => Array
+        (
+            [catalog_url_match_result] => 1
+        )
+
+    [catalog_product_flat_match_result] => 
+)
+
+2013-04-28T08:07:16+00:00 DEBUG (7): Array
+(
+)
+
+2013-04-28T08:07:16+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => Array
+        (
+            [catalog_url_match_result] => 1
+        )
+
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => Array
+        (
+            [catalog_category_product_match_result] => 1
+        )
+
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => Array
+        (
+            [catalogsearch_fulltext_match_result] => 1
+        )
+
+)
+
+2013-04-28T08:07:16+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => 
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => Array
+        (
+            [catalog_category_product_match_result] => 1
+        )
+
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => Array
+        (
+            [catalogsearch_fulltext_match_result] => 1
+        )
+
+)
+
+2013-04-28T08:07:16+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => 
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => Array
+        (
+            [catalog_category_product_match_result] => 1
+        )
+
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => Array
+        (
+            [catalogsearch_fulltext_match_result] => 1
+        )
+
+)
+
+2013-04-28T08:07:16+00:00 DEBUG (7): Array
+(
+    [catalog_category_product_match_result] => 1
+)
+
+2013-04-28T08:07:17+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => 
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => 
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => 
+)
+
+2013-04-28T08:07:22+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => Array
+        (
+            [catalog_url_match_result] => 1
+        )
+
+    [catalog_product_flat_match_result] => 
+)
+
+2013-04-28T08:07:22+00:00 DEBUG (7): Array
+(
+)
+
+2013-04-28T08:07:22+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => Array
+        (
+            [catalog_url_match_result] => 1
+        )
+
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => Array
+        (
+            [catalog_category_product_match_result] => 1
+        )
+
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => Array
+        (
+            [catalogsearch_fulltext_match_result] => 1
+        )
+
+)
+
+2013-04-28T08:07:22+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => 
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => Array
+        (
+            [catalog_category_product_match_result] => 1
+        )
+
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => Array
+        (
+            [catalogsearch_fulltext_match_result] => 1
+        )
+
+)
+
+2013-04-28T08:07:22+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => 
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => Array
+        (
+            [catalog_category_product_match_result] => 1
+        )
+
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => Array
+        (
+            [catalogsearch_fulltext_match_result] => 1
+        )
+
+)
+
+2013-04-28T08:07:22+00:00 DEBUG (7): Array
+(
+    [catalog_category_product_match_result] => 1
+)
+
+2013-04-28T08:07:22+00:00 DEBUG (7): Array
+(
+    [cataloginventory_stock_match_result] => 
+    [catalog_product_price_match_result] => 
+    [catalog_url_match_result] => 1
+    [Mage_Catalog_Model_Indexer_Url] => 
+    [catalog_product_flat_match_result] => 
+    [catalog_category_product_match_result] => 1
+    [Mage_Catalog_Model_Category_Indexer_Product] => 
+    [catalogsearch_fulltext_match_result] => 1
+    [Mage_CatalogSearch_Model_Indexer_Fulltext] => 
+)
+

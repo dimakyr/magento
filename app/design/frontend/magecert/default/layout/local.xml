@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layout>
+    <first_index_index>
+        <reference name="content">
+            <block type="first/data" name="first" template="blocks/first.phtml"/>
+        </reference>
+        <reference name="right">
+            <block type="first/data" name="second" after="-" template="blocks/second.phtml"/>
+        </reference>
+    </first_index_index>
+</layout>
